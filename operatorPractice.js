@@ -66,7 +66,7 @@ console.log(x*y);   //multiplication
 console.log(x/y);   //division
 console.log(x**y);  //exponential
 console.log(x%y);   //remainder(modulus)
-// for the following four to understand their operation ignore the console and clearly comments 
+// for the following four to understand their operation ignore the output in the terminal and clearly read the comments 
 console.log(++x);   //increment type 1  result would be here first it will add the 1number to x            ===== 11
 console.log(x++);   //increment type 2  but here the would be different it will not increase in this step next when we use it the value will be increased ===== 10
 console.log(--x);   //decrement type 1  result would be here first it will subtract the 1number from x     ===== 9
@@ -112,6 +112,7 @@ console.log( !true );
 
 
 /*
+
 
 
 */
